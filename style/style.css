@@ -6,6 +6,8 @@
 	left: 25%;
 	top: 50%;
 	display: block;
+	background-color:skyblue;
+	border-color:white;
 }
 form{
 	display: inline;
