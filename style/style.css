@@ -36,3 +36,8 @@ input[type=submit], button#dropdown {
 	font-size: 10pt;
 	position: relative;
 }
+
+input {
+	background-color:blue;
+	border-color:black;
+}
