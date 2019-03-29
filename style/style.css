@@ -9,6 +9,9 @@
 }
 form{
 	display: inline;
+	color:skyblue;
+	background-color:skyblue;
+	border-color:black;
 }
 input, button#dropdown {
 	box-sizing: border-box;
